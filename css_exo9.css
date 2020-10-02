@@ -1,0 +1,22 @@
+h1{
+    position: relative;
+	margin-right: 0px;
+    float: right;
+	text-align: center;
+	width: 450px;
+	background-color: grey;
+	
+}
+.colonne1{
+	display: inline-block;
+	float: left;
+	width: 200px;
+	
+}
+
+.colonne2{
+	display: inline-block;
+	float: left;
+	width: 200px;
+	
+}

@@ -1,0 +1,30 @@
+
+
+div {
+	
+	width: 500px;
+	padding: 10px; 
+	border: 5px solid black;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-bottom: 20px;
+	margin-right: auto;
+}
+
+
+p{
+	color: #FFFFFF;
+	font-family: tahoma;
+	text-align: center;
+	font-size: 2em;
+}
+
+.rouge{
+	background-color: red;
+} 
+
+.jaune{
+	background-color: yellow;
+	
+}
+

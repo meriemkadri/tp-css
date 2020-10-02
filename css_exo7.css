@@ -1,0 +1,34 @@
+div {
+	
+	width: 500px;
+	padding: 10px; 
+	border: 5px solid black;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-bottom: 20px;
+	margin-right: auto;
+	float: left;
+}
+
+
+p{
+	color: #FFFFFF;
+	font-family: tahoma;
+	text-align: center;
+	font-size: 2em;
+}
+
+.rouge{
+	background-color: red;
+	position: absolute;
+} 
+
+.jaune{
+	background-color: yellow;
+	position: relative;
+	left: 75px; 
+	top: 25px;
+	z-index: -1;
+	
+}
+
